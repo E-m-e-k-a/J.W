@@ -1,0 +1,84 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    background-color: bisque;
+
+}
+.container h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    padding-right: 80px;
+    padding-left: 80px;
+    
+}
+.container2{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 400px;
+    padding-right:80px ;
+    background-color:rgb(151, 112, 61);
+}
+.container3{
+    background-color: lightgray;
+    display: flex;
+    padding-top:90px ;
+    padding-right: 80px;
+}
+
+ body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-family: league spartan;
+ }
+ .footer{
+    background-color: black;
+    width: 1350px;
+    height: 200px;
+    margin-left: -10px;
+    color: white;
+    font-family: league spartan;
+
+}
+.l-text{
+    font-family: league spartan;
+
+    text-align: center;
+    padding: 20px 30px 5px 30px;
+}
+.nav{
+    background-color: #1a1a1a;
+     display: flex;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 5px;
+  
+ }
+ .nav a{
+     text-decoration: none;
+     color: white;
+ }.text1{
+     font-family: league spartan;
+     margin-right: 20px;
+     margin-left: 5px;
+     color: white;
+     }
+   
+
+     .text2{
+         font-family: league spartan;
+         font-weight: bold;
+         font-size: 30px;
+         margin: auto;
+     }
+     .icons{
+         margin-right: 15px;
+         padding-top: 5px;
+         color: white;
+     }

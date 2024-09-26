@@ -1,0 +1,133 @@
+.nav{
+    background-color: white;
+    display: flex;
+   position: sticky;
+   top: 0;
+   overflow: hidden;
+   padding-top: 10px;
+   padding-bottom: 5px;
+ 
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+.text1{
+font-family: league spartan;
+margin-right: 20px;
+margin-left: 5px;
+}
+.text2{
+    font-family: league spartan;
+    font-weight: bold;
+    font-size: 30px;
+    margin: auto;
+}
+.icons{
+    margin-right: 15px;
+    padding-top: 5px;
+}
+.image-container{
+    position: relative;
+    text-align: center;
+    
+    
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: league spartan;
+    font-size: 70px;
+    color: white;
+    font-weight: bolder;
+}
+.center-button{
+    font-family: league spartan;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 3px;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    font-size: medium;
+    margin: auto;
+    margin-top: 25px;
+}
+.ready{
+    width: fit-content;
+    height: fit-content;
+    background-color: black;
+    color: white;
+    font-family: league spartan;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    border-radius: 3px;
+    margin-top:30px ;
+
+}
+.wrapper img {
+    display:block;
+   width: 40%;
+    padding: 10px 5px 5px 10px;
+    margin: auto;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.description1{
+    font-family: league spartan;
+    font-size: medium;
+    margin: auto;
+    text-align: center;
+}
+.img1 img{
+    margin: auto;
+display: block;
+}
+.black{
+    margin-top: 30px;
+    width: 1250px;
+    height: 90px;
+    margin: auto;
+    background-color: black;
+    padding: 15px 5px 10px 5px;
+}
+.text3{
+    font-family: league spartan;
+    text-align: center;
+    color: white;
+    font-size: 1.3rem;
+
+}
+.L-image img {
+
+display: inline;
+margin: auto;
+margin-left: 45px;
+}
+.footer{
+    background-color: black;
+    width: 1350px;
+    height: 400px;
+    margin-left: -10px;
+    color: white;
+    font-family: league spartan;
+
+}
+.l-text{
+    font-family: league spartan;
+
+    text-align: center;
+    padding: 20px 30px 5px 30px;
+}
